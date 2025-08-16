@@ -10,7 +10,7 @@
 ## 🎯 About Me
 
 - 🌱 Currently learning and exploring: `C++`, `DSA`, `Python`, and `Full Stack Web Development (MERN)`
-- 💡 Goal: Becoming a full-stack developer and contributing to open-source
+- 💡 Goal: Becoming a full-stack developer and contributer to open-source
 - ⚡ Fun Fact: I enjoy solving logical problems and building useful web tools
 
 ---
