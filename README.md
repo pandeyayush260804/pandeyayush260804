@@ -49,14 +49,35 @@ Full Stack Development • Competitive Programming • Backend Engineering
 
 ---
 
-# 💻 Tech Stack
+## 💻 Languages
 
 <p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,vscode,postman"/>
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,javascript,typescript"/>
 </p>
 
+---
+
+## 🌐 Frontend
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,html,css,tailwind"/>
+</p>
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode"/>
+</p>
 ---
 
 
