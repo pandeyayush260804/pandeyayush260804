@@ -27,22 +27,12 @@ Full Stack Development • Competitive Programming • Backend Engineering
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3FA9F5&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Enthusiast;Always+Learning+New+Things+🚀"/>
-
-</p>
 
 ---
 
 <p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750610-3d5d2b8b-d5f5-4c63-bb9d-9f7d44f8f6d3.gif" width="750"/>
-
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="700" alt="Coding Animation"/>
 </p>
-
 ---
 
 # 🚀 About Me
@@ -63,27 +53,13 @@ Full Stack Development • Competitive Programming • Backend Engineering
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,postman,vscode,socketio&perline=9"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,vscode,postman"/>
 
 </p>
 
 ---
 
-# 💼 What I Work On
 
-💡 I enjoy building modern software solutions that combine **clean design**, **efficient backend systems**, and **great user experiences**.
-
-### My Interests
-
-- 🌐 Full Stack Web Development (MERN)
-- ⚡ Real-Time Applications using Socket.IO
-- 🔐 Secure Authentication & Authorization
-- 🗄️ REST APIs & Backend Development
-- 📊 Database Design & Optimization
-- 🧩 Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence
-
----
 
 # 📈 GitHub Contribution Graph
 
