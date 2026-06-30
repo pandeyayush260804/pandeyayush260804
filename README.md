@@ -21,10 +21,6 @@ Full Stack Development • Competitive Programming • AI & Machine Learning
   </a>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Enthusiast;Always+Learning+Something+New+🚀"/>
-</p>
-
 ---
 
 ## 🚀 About Me
