@@ -1,96 +1,91 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 
-<h3 align="center">Pre-Final Year Computer Science Engineering Undergraduate</h3>
+<h3 align="center">
+Pre-Final Year Computer Science Engineering Undergraduate
+</h3>
 
 <p align="center">
-Full Stack Development • Competitive Programming • AI & Machine Learning
+Full Stack Development • Competitive Programming • Backend Engineering
 </p>
 
 <p align="center">
-  <a href="mailto:pandeyayush2608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayushpandey2608">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-vert-alpha-36.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/PANDEY260804/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<a href="mailto:pandeyayush2608@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/ayushpandey2608">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🚀 About Me
+<a href="https://ap-portfolio-tau.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-🎓 B.Tech CSE @ BPIT, Delhi
-
-💻 Passionate about Full Stack Development and scalable backend systems
-
-🌱 Currently learning AI, System Design, and Advanced MERN Stack
-
-🏆 Solved **400+ DSA Problems**
-
-⚡ Love building real-world projects and participating in hackathons
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,postman,vscode&perline=9"/>
+<a href="https://leetcode.com/u/PANDEY260804/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
 
-### 🏋️ Macromates
-Gym Management Platform built using MERN Stack.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3FA9F5&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Enthusiast;Always+Learning+New+Things+🚀"/>
 
-- JWT Authentication
-- Subscription Management
-- Trainer Dashboard
-- Payment Management
-
-🔗 https://gym-management-pi-sand.vercel.app/
+</p>
 
 ---
 
-### ⚔️ Code & Chaos
+<p align="center">
 
-Real-time multiplayer coding battle platform.
+<img src="https://user-images.githubusercontent.com/74038190/212750610-3d5d2b8b-d5f5-4c63-bb9d-9f7d44f8f6d3.gif" width="750"/>
 
-- Socket.IO Matchmaking
-- JWT Authentication
-- Admin & Player Dashboards
-- Match History
-- Live Battle Arena
-
-🔗 https://chaos-and-chaos.vercel.app/
+</p>
 
 ---
 
-### 🎓 Campus Connect
+# 🚀 About Me
 
-Smart College Management Platform.
+🎓 Final Year B.Tech CSE Student at **BPIT, Delhi**
 
-- Attendance
-- Timetable
-- Results
-- Teacher Dashboard
-- Student Dashboard
+💻 Passionate about building scalable full-stack web applications and solving challenging algorithmic problems.
 
-🔗 https://bpit-sih.vercel.app/
+🌱 Currently exploring **System Design**, **Backend Engineering**, and **Artificial Intelligence**.
+
+🏆 Solved **400+ DSA Problems** across LeetCode and CodeChef.
+
+🤝 Always excited to collaborate on innovative projects and contribute to open-source.
 
 ---
 
+# 💻 Tech Stack
 
-## 📊 Contribution Graph
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,git,github,postman,vscode,socketio&perline=9"/>
+
+</p>
+
+---
+
+# 💼 What I Work On
+
+💡 I enjoy building modern software solutions that combine **clean design**, **efficient backend systems**, and **great user experiences**.
+
+### My Interests
+
+- 🌐 Full Stack Web Development (MERN)
+- ⚡ Real-Time Applications using Socket.IO
+- 🔐 Secure Authentication & Authorization
+- 🗄️ REST APIs & Backend Development
+- 📊 Database Design & Optimization
+- 🧩 Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence
+
+---
+
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -100,15 +95,22 @@ Smart College Management Platform.
 
 ---
 
-## 🏆 Competitive Programming
+# 🏆 Competitive Programming
 
-- 💛 **LeetCode:** 400+ Problems
-- 💙 **CodeChef:** Active Competitive Programmer
-- 🧠 Focused on Data Structures & Algorithms
+🏅 **400+ Problems Solved** across coding platforms.
+
+💛 **LeetCode**
+- Data Structures & Algorithms
+- Problem Solving
+- Contest Participation
+
+💙 **CodeChef**
+- Competitive Programming
+- Algorithmic Thinking
 
 ---
 
-## 🌐 Connect With Me
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -136,6 +138,6 @@ Smart College Management Platform.
 
 ⭐ Thanks for visiting my profile!
 
-**Code • Learn • Build • Repeat 🚀**
+### *"Code. Learn. Build. Repeat. 🚀"*
 
 </p>
