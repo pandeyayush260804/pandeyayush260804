@@ -49,34 +49,36 @@ Full Stack Development • Competitive Programming • Backend Engineering
 
 ---
 
-## 💻 Languages
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,javascript,typescript"/>
-</p>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="55" title="C++"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="55" title="C"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="55" title="Python"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="55" title="JavaScript"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="55" title="TypeScript"/>
 
----
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="55" title="HTML5"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="55" title="CSS3"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="55" title="React"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="55" title="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="55" title="Shadcn UI"/>
 
-## 🌐 Frontend
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="55" title="Node.js"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="55" title="Express.js"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="55" title="REST API"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" width="55" title="WebSocket"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="55" title="MongoDB"/>
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,html,css,tailwind"/>
-</p>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="55" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="55" title="Git"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="55" title="GitHub"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="55" title="Postman"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="55" title="VS Code"/>
 
----
-
-## ⚙ Backend
-
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,postgresql"/>
-</p>
-
----
-
-## 🛠 Tools
-
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="55" title="Firebase"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="55" title="NPM"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="55" title="Vite"/>
 </p>
 ---
 
