@@ -80,7 +80,6 @@ Full Stack Development • Competitive Programming • Backend Engineering
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="Bash"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman"/>
 </p>
----
 
 # 📈 GitHub Contribution Graph
 
